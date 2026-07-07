@@ -17,4 +17,4 @@ Find your ideal research environment by understanding your interests, working st
 
 ## Interests
 AI • Biotechnology • Purfumery
-Science, mystery, and everything in between
+Science, mysteries, and everything in between
