@@ -1,16 +1,20 @@
-## Hi there 👋
+Hello, I'm Michelle (^^)
 
-<!--
-**watermelon-mi/watermelon-mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Molecular Genetics + Computer Science @ University of Toronto
 
-Here are some ideas to get you started:
+Building AI-powered tools for research and everyday life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most projects begin simply with:
+"I wish this existed."
+
+## Current Projects
+
+### Research Garden
+Turn the papers you've read into a visual, interconnected knowledge system for long-term learning and discovery.
+
+### Research Compass
+Find your ideal research environment by understanding your interests, working style, and lab preferences.
+
+## Interests
+AI • Biotechnology • Purfumery
+Science, mystery, and everything in between
