@@ -2,8 +2,6 @@ Hello, I'm Michelle (^^)
 
 Molecular Genetics + Computer Science @ University of Toronto
 
-Building AI-powered tools for research and everyday life.
-
 Most projects begin simply with:
 "I wish this existed."
 
